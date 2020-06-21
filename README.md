@@ -1,4 +1,4 @@
-Playlist Challenge
+# Music App
 ==========================
 
 > React Js playlists from a library of
