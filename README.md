@@ -23,31 +23,6 @@ npm install
 npm start
 ```
 
-Features
------------------------------
-
-Start by building out these features:
-
-1. Load the library of songs and show it in the browser. 
-2. Add songs from the library to a playlist. 
-3. Name and save a playlist.
-4. List saved playlists. 
-5. Load saved playlists.
-
-If you complete the above and still have time, try one of these, in no
-particular order:
-* Make it Responsive 
-* Drag 'n Drop organization.
-* Search or filtering for songs.
-* Sorting songs by properties like album, artist or length.
-
-You do **not** have to do any of the following:
-
-2. Deal with authentication. 🔐
-3. Work across browsers. Pick your favourite and get it working there. 🏄
-
-*We reserve the right to ask you about how to implement them later 😀*
-
 
 API
 -------------------------------
