@@ -89,7 +89,7 @@ class PlayListComponent extends React.Component{
                                 return (
                                     <div>
                                         <div className="loader">
-                                            <img src="https://cdn.dribbble.com/users/3337757/screenshots/6825268/076_-loading_animated_dribbble_copy.gif" />
+                                            <h4>No Playlists Found.</h4>
                                         </div>
                                     </div>
                                 )
