@@ -1,20 +1,22 @@
 Playlist Challenge
 ==========================
 
-> Build a single page web application for creating playlists from a library of
+> React Js playlists from a library of
 > songs!
+
+To install and start the web server:
+
+```bash
+cd app
+npm install
+npm start
+opens in port 3000
+```
 
 Included in this folder is a Node.js web server which includes an API and a
 skeleton for your browser-based playlist application.
 
-The API includes endpoints to complete the challenge. You don't need to change,
-but you can if it helps.
-
-feel free to get idea from spotify app and make your test prettier.(you can find the picture in the root directory).
-feel free to use react or create-react-app to complete task or you can add react to this project.
-feel free to use any css librarries but if you use custom css will have extra points.
-
-To install and start the web server:
+To install and start the node server:
 
 ```bash
 npm install
