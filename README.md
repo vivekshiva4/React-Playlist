@@ -10,7 +10,7 @@ To install and start the web server:
 cd app
 npm install
 npm start
-opens in port 3000
+opens at http://localhost:3000/
 ```
 
 Included in this folder is a Node.js web server which includes an API and a
